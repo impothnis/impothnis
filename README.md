@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Pavan Pothnis
+- 👋 Hi, I’m Pavan Pothnis, I currently work in Informatica as Lead Software Developer. I design and develop solutions for Micrsoft Aure Applications like Blob, ADLSGen2, Azure Synapse. I also work on Analytics part and have extensive knowldge on Common Data Model, Power BI Integration with Information Data Integration solutions. 
 - 👀 I’m interested in Java, Cloud Services, Microservices, Rest API, Microsoft Azure, Power BI, Customer Insights, Data Analytics, Machine Learning, Artificial Intellegence 
 - 🌱 I’m currently learning Front End Develeopement, HTML, CSS, React 
-- 💞️ I’m looking to collaborate on Portfolio website creation and Frontend developement 
+- 💞️ I’m looking to collaborate on Portfolio Website creation and cool UI Projects 
 - 📫 How to reach me pavanpothnis@outlook.com
 
 <!---
