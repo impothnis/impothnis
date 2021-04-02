@@ -27,6 +27,4 @@
 <a href="https://github.com/impothnis/FrontEnd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=impothnis&repo=FrontEnd" />
 </a>
-<a href="https://github.com/impothnis/FrontEnd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=impothnis&repo=FrontEnd" />
-</a>
+
