@@ -9,6 +9,8 @@
 </a>
 <br/>
 <br/>
+
+
 - 👨‍💻 I currently work at Informatica as Lead Software Developer. I design and develop solutions for Micrsoft Aure Services like Azure Blob, ADLSGen2, Azure Synapse. I also     work on Analytics part and have extensive knowldge on Common Data Model, Power BI Integration with Information Data Integration solutions. 
 - 👀 I’m interested in Java, Cloud Services, Microservices, Rest API, Microsoft Azure, Power BI, Customer Insights, Data Analytics, Machine Learning, Artificial Intellegence.
 - 🌱 I’m currently learning Front End Develeopement, HTML, CSS, React JS, Node and NPM. 
