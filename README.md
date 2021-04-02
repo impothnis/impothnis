@@ -55,8 +55,8 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=impothnis&theme=dracula"/>
 
 ## **Projects I am currently working on**
-<a href="https://github.com/impothnis/FrontEnd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=impothnis&repo=FrontEnd" />
+<a href="https://github.com/impothnis/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=impothnis&repo=portfolio" />
 </a>
 
 
