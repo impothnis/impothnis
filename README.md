@@ -18,11 +18,11 @@
 
 ## 🕺 **What I Do** 
 
-👨‍💻 I currently work at Informatica as Lead Software Developer. I design and develop solutions for Micrsoft Aure Services like Azure Blob, ADLSGen2, Azure Synapse. I also     work on Analytics part and have extensive knowldge on Common Data Model, Power BI Integration with Information Data Integration solutions. 
-👀 I’m interested in Java, Cloud Services, Microservices, Rest API, Microsoft Azure, Power BI, Customer Insights, Data Analytics, Machine Learning, Artificial Intellegence.
-🌱 I’m currently learning Front End Develeopement, HTML, CSS, React JS, Node and NPM. 
-💞️ I’m looking to collaborate on Portfolio Website creation and cool UI Projects.
-😃 + 💻 + 🧠 = 🏆 - Currently Working on Building my portfolio website and also a website for my pâtissier friend.
+- 👨‍💻 I currently work at Informatica as Lead Software Developer. I design and develop solutions for Micrsoft Aure Services like Azure Blob, ADLSGen2, Azure Synapse. I also     work on Analytics part and have extensive knowldge on Common Data Model, Power BI Integration with Information Data Integration solutions. 
+- 👀 I’m interested in Java, Cloud Services, Microservices, Rest API, Microsoft Azure, Power BI, Customer Insights, Data Analytics, Machine Learning, Artificial Intellegence.
+- 🌱 I’m currently learning Front End Develeopement, HTML, CSS, React JS, Node and NPM. 
+- 💞️ I’m looking to collaborate on Portfolio Website creation and cool UI Projects.
+- 😃 + 💻 + 🧠 = 🏆 - Currently Working on Building my portfolio website and also a website for my pâtissier friend.
 
 
 ## 🚀 **Key Skills**
@@ -46,12 +46,15 @@
 
 <img src="https://m.media-amazon.com/images/I/81DEjZaYdfL._AC_UY218_.jpg" width="100px" />
 
-## 📫 **How to reach me pavanpothnis@outlook.com**
+## 📫 **How to reach me** 
+📧pavanpothnis@outlook.com
 
-## **Aiming for Consitency**
+## **🎯Aiming for Consitency**
 <img src ="https://github-readme-stats.vercel.app/api?username=impothnis&theme=dracula&count_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impothnis&theme=dracula"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=impothnis&theme=dracula"/>
+
+## **Projects I am currently working on**
 <a href="https://github.com/impothnis/FrontEnd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=impothnis&repo=FrontEnd" />
 </a>
