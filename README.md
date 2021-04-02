@@ -71,8 +71,8 @@
 </a>
 
 
-##shout-out and References I am using to learn**
+## **shout-out and References I am using to learn**
 
-- <img src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png" width="40px" logoColor=white/>https://dev.to/
+- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--g3JdSGe6--/c_limit,f_auto,fl_progressive,q_80,w_190/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/rainbowdev.svg" width="20px" logoColor=white/>https://dev.to/
 - <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20px"/> https://github.com/iampawan
 - <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20px"/> https://github.com/alexandresanlim/Badges4-README.md-Profile - For Logo
