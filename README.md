@@ -17,4 +17,5 @@
 - 💞️ I’m looking to collaborate on Portfolio Website creation and cool UI Projects.
 - 😃 + 💻 + 🧠 = 🏆 - Currently Working on Building my portfolio website and also a website for my pâtissier friend.
 - 📫 How to reach me pavanpothnis@outlook.com.
-- 📈 <img src ="https://github-readme-stats.vercel.app/api?username=impothnis&&show_icons=true&title_color=F5EB12&icon_color=F5EB12&text_color=daf7dc&bg_color=1291F5"/>
+- One Day at a time 
+- <img src ="https://github-readme-stats.vercel.app/api?username=impothnis&&show_icons=true&title_color=F5EB12&icon_color=F5EB12&text_color=daf7dc&bg_color=1291F5"/>
