@@ -50,9 +50,16 @@
 📧pavanpothnis@outlook.com
 
 ## **🎯Aiming for Consitency**
-<img src ="https://github-readme-stats.vercel.app/api?username=impothnis&theme=dracula&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impothnis&theme=dracula"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=impothnis&theme=dracula"/>
+## **GitHub Stats**
+
+<img src ="https://github-readme-stats.vercel.app/api?username=impothnis&theme=dracula&count_private=true">
+
+## **Language Stats**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impothnis&theme=dracula">
+
+## **wakatime Stats**
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=impothnis&theme=dracula">
 
 ## **Projects I am currently working on**
 <a href="https://github.com/impothnis/portfolio">
