@@ -22,7 +22,7 @@
 - 👀 I’m interested in Java, Cloud Services, Microservices, Rest API, Microsoft Azure, Power BI, Customer Insights, Data Analytics, Machine Learning, Artificial Intellegence.
 - 🌱 I’m currently learning Front End Develeopement, HTML, CSS, React JS, Node and NPM. 
 - 💞️ I’m looking to collaborate on Portfolio Website creation and cool UI Projects.
-- 😃 + 💻 + 🧠 = 🏆 - Currently Working on Building my portfolio website and also a website for my pâtissier friend.
+- 😃 + 💻 + 🧠 = 🏆 - Currently Teaching myself front-end tech so I can learn to Build my portfolio website and also a website for my pâtissier friend.
 
 
 ## 🚀 **Key Skills**
@@ -58,15 +58,6 @@
 <a href="https://github.com/impothnis/FrontEnd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=impothnis&repo=FrontEnd" />
 </a>
-Most used languages across my projects:
 
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B162.6%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B110.2%25)
-![Julia](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23a270ba&message=Julia%EF%B8%B18.1%25)
-![Vue](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232c3e50&message=Vue%EF%B8%B16%25)
-![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%EF%B8%B15.3%25)
-![Rust](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23dea584&message=Rust%EF%B8%B12.8%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B12%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.6%25)
 
 
