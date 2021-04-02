@@ -18,6 +18,6 @@
 - 😃 + 💻 + 🧠 = 🏆 - Currently Working on Building my portfolio website and also a website for my pâtissier friend.
 - 📫 How to reach me pavanpothnis@outlook.com.
 - Favorite Book - 
-- <img src="https://images-na.ssl-images-amazon.com/images/I/51EahyswmzL._SX332_BO1,204,203,200_.jpg" width="100px" /><img src="https://images-na.ssl-images-amazon.com/images/I/519L6FBdlXL._SX326_BO1,204,203,200_.jpg" width="100px" /><img src="https://images-na.ssl-images-amazon.com/images/I/51gqAOicwhL._SX323_BO1,204,203,200_.jpg width="100px" />
-- One Day at a time 
+- <img src="https://images-na.ssl-images-amazon.com/images/I/51EahyswmzL._SX332_BO1,204,203,200_.jpg" width="100px" /><img src="https://images-na.ssl-images-amazon.com/images/I/519L6FBdlXL._SX326_BO1,204,203,200_.jpg" width="100px" /><img src="https://images-na.ssl-images-amazon.com/images/I/51gqAOicwhL._SX323_BO1,204,203,200_.jpg" width="100px" /><img src="https://m.media-amazon.com/images/I/717H9DQH6EL._AC_UY218_.jpg" width="100px" /><img src="https://m.media-amazon.com/images/I/61I0gGuDYvL._AC_UY218_.jpg" width="100px" /><img src="https://images-na.ssl-images-amazon.com/images/I/413zTm2tg0L._SX373_BO1,204,203,200_.jpg" width="100px" /><img src="https://images-na.ssl-images-amazon.com/images/I/41rtlILojFL._SX323_BO1,204,203,200_.jpg" width="100px" /><img src="https://images-na.ssl-images-amazon.com/images/I/51gdzz+UrUL._SY344_BO1,204,203,200_.jpg" width="100px" />
+- Aming for Consitency  
 <img src ="https://github-readme-stats.vercel.app/api?username=impothnis&&show_icons=true&title_color=F5EB12&icon_color=F5EB12&text_color=daf7dc&bg_color=1291F5"/>
