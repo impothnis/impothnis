@@ -1,7 +1,7 @@
 ##  👋 **Hello World , I’m Pavan Pothnis**
-**Turn on the Dark Mode to enter the Dark Side !** 
+**Turn on the Dark Mode to enter the Dark Side !**                                                        **Or Stay on the Light side and May the Force be with you !**
 <br/>
-<img src = "https://steamuserimages-a.akamaihd.net/ugc/2424502168199260362/43F17B838E5516083791F1197D4C8D6819D6A141/" hight="200px" width="200px" />
+<p align="left"><img src = "https://steamuserimages-a.akamaihd.net/ugc/2424502168199260362/43F17B838E5516083791F1197D4C8D6819D6A141/" hight="200px" width="200px"/></p><p align="Right"> <img src = "https://api.time.com/wp-content/uploads/2015/12/star-wars-episode-iii-revenge-of-the-sith-obi-wan.jpg" hight="500px" width="300px" /> </p>
 
 **Or Stay on the Light side and May the Force be with you !**
 <br/>
