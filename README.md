@@ -1,6 +1,7 @@
 ##  👋 **Hello World , I’m Pavan Pothnis**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impothnisn&label=Views&color=blue&style=plastic" alt="impothnis" /> </p>
-**Turn on the Dark Mode to enter the Dark Side !**</p>                                                        
+
+**Turn on the Dark Mode to enter the Dark Side !**                                                        
 <img src = "https://steamuserimages-a.akamaihd.net/ugc/2424502168199260362/43F17B838E5516083791F1197D4C8D6819D6A141/" hight="200px" width="200px"/>
 
 **Or Stay on the Light side and May the Force be with you !**
