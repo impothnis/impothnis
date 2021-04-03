@@ -73,8 +73,7 @@
 
 ## **Projects I am currently working on**
 <a href="https://github.com/impothnis/portfolio">
-  <img align="center" src="https://impothnis-impothnis.vercel.app/api/pin/?username=impothnis&repo=portfolio" />
- 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=impothnis&repo=portfolio" /> 
 </a>
 
 
