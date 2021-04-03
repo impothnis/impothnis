@@ -4,7 +4,7 @@
 **Turn on the Dark Mode to enter the Dark Side !**                                                        
 <img src = "https://steamuserimages-a.akamaihd.net/ugc/2424502168199260362/43F17B838E5516083791F1197D4C8D6819D6A141/" hight="200px" width="200px"/>
 
-**Or Stay on the Light side and May the Force be with you !**
+**Or Stay on the Light side and May the Force be with you !**                 
 <img src = "https://api.time.com/wp-content/uploads/2015/12/star-wars-episode-iii-revenge-of-the-sith-obi-wan.jpg" hight="200px" width="200px" />
 
 
