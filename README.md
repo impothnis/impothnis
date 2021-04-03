@@ -32,7 +32,7 @@
 - 👨‍💻 I currently work at Informatica as Lead Backend Java Software Developer. I design and develop Data Integration solutions for Microsoft Azure Services like Azure Blob, Azure Data lake, Azure Synapse. I also work on Integrating Informatica solutions with Analytics and have extensive knowledge on Tableau, Common Data Model, Customer Insights and Power BI Integration with Informatica Data Integration solutions.  
 - 👀 I’m interested in Java, Spring, Python, Docker, CI/CD, Git and GitHub, Cloud Services, Microservices, Rest API, Microsoft Azure, Power BI, Customer Insights, Data Analytics, Machine Learning and Artificial Intelligence.
 - 💞️ I’m looking to collaborate on Portfolio Website creation and cool UI Projects to learn and improve my frontend tech stack.
-- 😃 + 🌱 + 💻 + 🧠 = 🏆 - I am Currently smitten by Frontend tech and Teaching myself HTML, CSS, React JS and Node, So I can learn to build my portfolio website and a website for my pâtissier friend.
+- 😃 + 🌱 + 💻 + 🧠 = 🏆 - I am Currently smitten by Frontend tech and Teaching myself HTML, CSS, React JS and Node, So I can learn to build my portfolio website and a website for my amie pâtissier.
 
 
 ## 🚀 **Key Skills**
