@@ -3,7 +3,13 @@
 <br/>
 <img src = "https://steamuserimages-a.akamaihd.net/ugc/2424502168199260362/43F17B838E5516083791F1197D4C8D6819D6A141/" hight="200px" width="200px" />
 
+**Or Stay on the Light side and May the Force be with you ! **
+<br/>
+<img src = "https://api.time.com/wp-content/uploads/2015/12/star-wars-episode-iii-revenge-of-the-sith-obi-wan.jpg" hight="200px" width="200px" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impothnisn&label=Views&color=blue&style=plastic" alt="impothnis" /> </p>
+
+
 
 ## 👨👩 **Social**
 
@@ -22,10 +28,10 @@
 
 ## 🕺 **What I Do** 
 
-- 👨‍💻 I currently work at Informatica as Lead Backend Java Software Developer. I design and develop solutions for Micrsoft Aure Services like Azure Blob, ADLSGen2, Azure Synapse. I also work on Analytics part and have extensive knowldge on Common Data Model, Power BI Integration with Information Data Integration solutions. 
-- 👀 I’m interested in Java, Cloud Services, Microservices, Rest API, Microsoft Azure, Power BI, Customer Insights, Data Analytics, Machine Learning, Artificial Intellegence.
-- 💞️ I’m looking to collaborate on Portfolio Website creation and cool UI Projects.
-- 😃 + 🌱 + 💻 + 🧠 = 🏆 - I am Currently smitten by Frontend tech and Teaching myself HTML, CSS, React JS and Node. So I can learn to Build my portfolio website and also a website for my pâtissier friend.
+- 👨‍💻 I currently work at Informatica as Lead Backend Java Software Developer. I design and develop Data Integration solutions for Microsoft Azure Services like Azure Blob, Azure Data lake, Azure Synapse. I also work on Integrating Informatica solutions with Analytics and have extensive knowledge on Tableau, Common Data Model, Customer Insights and Power BI Integration with Informatica Data Integration solutions.  
+- 👀 I’m interested in Java, Spring, Python, Docker, CI/CD, Git and GitHub, Cloud Services, Microservices, Rest API, Microsoft Azure, Power BI, Customer Insights, Data Analytics, Machine Learning and Artificial Intelligence.
+- 💞️ I’m looking to collaborate on Portfolio Website creation and cool UI Projects to learn and improve my frontend tech stack.
+- 😃 + 🌱 + 💻 + 🧠 = 🏆 - I am Currently smitten by Frontend tech and Teaching myself HTML, CSS, React JS and Node, So I can learn to build my portfolio website and a website for my pâtissier friend.
 
 
 ## 🚀 **Key Skills**
