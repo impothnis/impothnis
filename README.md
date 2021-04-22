@@ -1,5 +1,5 @@
 <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-##  :wave: **Namaste World , I’m Pavan Pothnis** :bowtie:
+## :snowboarder: **Namaste World , I’m Pavan Pothnis** :telescope:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impothnisn&label=Views&color=blue&style=plastic" alt="impothnis" /> </p>
 
 **Turn on the Dark Mode to enter the Dark Side !**                                                        
