@@ -1,4 +1,4 @@
-##  🙏 **Namaste World , I’m Pavan Pothnis** 🤓
+##  :wave: **Namaste World , I’m Pavan Pothnis** :bowtie:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impothnisn&label=Views&color=blue&style=plastic" alt="impothnis" /> </p>
 
 **Turn on the Dark Mode to enter the Dark Side !**                                                        
