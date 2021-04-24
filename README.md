@@ -71,11 +71,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impothnis&theme=dracula">
 
 ## **wakatime Stats**
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=impothnis&theme=dracula">
+<img width="400px" height="400px" src="https://wakatime.com/share/@impothnis/889a8ce3-bbb6-4cca-bba0-d3e3e812e134.svg">
 
 ## **Projects I am currently working on**
 <a href="https://github.com/impothnis/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=impothnis&repo=portfolio" /> 
+  <img align="center"   src="https://github-readme-stats.vercel.app/api/pin/?username=impothnis&repo=portfolio" /> 
 </a>
 
 
