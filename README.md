@@ -1,6 +1,8 @@
 
 ## :raised_hands: **Namaste World <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I’m Pavan Pothnis** :bowtie:
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impothnisn&label=Views&color=blue&style=plastic" alt="impothnis" /> </p>
+<p align="left"> <img src=https://wakatime.com/badge/github/impothnis/fullstack.svg" alt="Fullstack" /> </p>
 
 **Turn on the Dark Mode to enter the Dark Side !**                                                        
 <img src = "https://steamuserimages-a.akamaihd.net/ugc/2424502168199260362/43F17B838E5516083791F1197D4C8D6819D6A141/" hight="200px" width="200px"/>
