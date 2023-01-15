@@ -62,7 +62,8 @@
 ## **🎯Aiming for Consitency**
 ## **GitHub Stats**
 
-<img src ="https://github-readme-stats-nine-jade.vercel.app/api?username=impothnis&theme=dracula&count_private=true">
+<img src ="https://github-readme-stats-nine-jade.vercel.app/api?username=impothnis&theme=dracula">
+
 
 ## **Language Stats**
 
