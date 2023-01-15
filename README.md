@@ -67,7 +67,7 @@
 
 ## **Language Stats**
 
-<img src="https://github-readme-stats-sigma-five.vercel.appapi/top-langs/?username=impothnis&theme=dracula">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=impothnis&theme=dracula">
 
 ## **wakatime Stats**
 <img width="400px" height="400px" src="https://wakatime.com/share/@impothnis/889a8ce3-bbb6-4cca-bba0-d3e3e812e134.svg">
